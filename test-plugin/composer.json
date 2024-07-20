@@ -1,0 +1,17 @@
+{
+    "name": "luckycode/test-message-parser-plugin",
+    "authors": [
+        {
+            "name": "João M."
+        }
+    ],
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "minimum-stability": "alpha",
+    "require": {
+        "pocketmine/pocketmine-mp": "5.17.*",
+        "php": "8.2.*",
+        "luckycode/message-parser": "dev-main"
+    }
+}
