@@ -1,0 +1,8 @@
+parameters:
+	level: 9
+	excludePaths:
+		- */vendor/*
+	paths:
+		- virion
+		- example-plugin
+		- tests

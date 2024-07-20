@@ -20,5 +20,14 @@
             "spec": "3.1",
             "namespace-root": "LuckyCode\\MessageParser"
         }
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.34",
+        "phpstan/phpstan": "^1.11"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
     }
 }
